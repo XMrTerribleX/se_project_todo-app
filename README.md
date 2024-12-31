@@ -1,17 +1,22 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple Todo Application allowing users to add and remove tasks, with optional deadlines, with ease.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+The app was created with HTML5, CSS3, & JavaScript. It contains Object-Oriented programming along with form validation via JavaScript.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML5
+- CSS3
+- JavaScript
+- Form Validation
+- Media Queries
+- Object-Oriented Programming
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- (https://xmrterriblex.github.io/se_project_todo-app/)
